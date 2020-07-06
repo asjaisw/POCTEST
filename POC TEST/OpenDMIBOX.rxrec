@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="f65c2352-0aa9-46cc-aae2-4d415098a0ae"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="OpenDMIBOX"
+	namespace="POC_TEST">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<openwebsiterecorditem
+		args=""
+		browser="chrome"
+		clearcache="False"
+		clearcookies="False"
+		enabled="True"
+		incognito="False"
+		instrument="True"
+		killexisting="False"
+		maximized="True"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<url>
+				https://ussprod--dmibox.my.salesforce.com
+			</url>
+		</openwebsiterecorditem>
+	</recorditems>
+	<repository
+	id="c565b1fa-1883-4488-bb37-a25f22e9a85d"
+	name="POC_TESTRepository"
+	relativepath="POC_TESTRepository.rxrep">
+		<codegen
+		classname="POC_TESTRepository"
+		namespace="POC_TEST">
+		</codegen>
+		<rootfolder
+		id="06eebc44-df2f-44c2-8d03-feecc7d2a764"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		OpenDMIBOX.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

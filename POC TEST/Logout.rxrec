@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="6478b98f-8669-47bf-bbe2-6cbdbb697942"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Logout"
+	namespace="POC_TEST">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<explicitdelayitem
+		duration="10000ms"
+		enabled="True"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</explicitdelayitem>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="Center"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="71532a36-707d-4f47-9ed1-135029ae303e"
+		sx="1865"
+		sy="186"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="2c37ca8b-7e1c-4de4-82ee-580fafdc8e40"
+			sourcename="Recorder">
+				<element
+				capabilities="webelement, spantag"
+				dontcache="True"
+				enabled="True"
+				flavor="chromeweb"
+				hasfocus="False"
+				index="0"
+				prefcap="spantag"
+				rect="1842,166,48,45"
+				role="unknown"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="class"
+					type="System.String">
+						uiImage
+					</attribute>
+					<attribute
+					name="draggable"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="hidden"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="innertext"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="safeclass"
+					type="System.String">
+						uiImage
+					</attribute>
+					<attribute
+					name="tagname"
+					type="System.String">
+						span
+					</attribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="data-aura-class"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="data-aura-rendered-by"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+				</element>
+				<path>
+					/dom[@domain='ussprod--dmibox.lightning.force.com']//header[#'oneHeader']/div[2]/span/?/?/ul/li[9]//div/span[1]/div/span
+				</path>
+			</info>
+			<helperscreenshot
+			guid="a72072fa-272f-400a-9143-ded202a41aa2">
+				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
+			</helperscreenshot>
+		</mouseitem>
+		<explicitdelayitem
+		duration="10000ms"
+		enabled="True"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</explicitdelayitem>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="Center"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="80682f0f-3015-4792-b9b5-acbabdad2dc8"
+		sx="0"
+		sy="0"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="22c5d6a9-5cd0-422d-9528-fd3cfb1ac593"
+			sourcename="ItemRecorderEditor">
+				<path>
+					/dom[@domain='ussprod--dmibox.lightning.force.com']/body/div[4]/div[2]/div[2]/div[1]/div[1]/div/div[2]/div/a[@href='https://ussprod--dmibox.lightning.force.com/secur/logout.jsp' and @title='' and @class='profile-link-label logout uiOutputURL']
+				</path>
+			</info>
+		</mouseitem>
+	</recorditems>
+	<repository
+	id="c565b1fa-1883-4488-bb37-a25f22e9a85d"
+	name="POC_TESTRepository"
+	relativepath="POC_TESTRepository.rxrep">
+		<codegen
+		classname="POC_TESTRepository"
+		namespace="POC_TEST">
+		</codegen>
+		<rootfolder
+		id="06eebc44-df2f-44c2-8d03-feecc7d2a764"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Logout.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
