@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="1.9m"
+		durationms="112894"
+		type="root"
+		rid="fa12eb1fa88f8c0"
+		totalerrorcount="1"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="asjaisw"
+		rxversion="9.3.2.0"
+		host="6K68533-ASJAISW"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-US"
+		screenresolution="1920x1080"
+		timestamp="7/4/2020 3:20:49 PM"
+		timestampiso="2020-07-04T19:20:49"
+		endtime="7/4/2020 3:22:42 PM"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<errormessage>
+			Failed to find item 'POC_TESTRepository.ApplicationUnderTest.LogOut'. Please check that your whitelist allows Ranorex to access the process.
+		</errormessage>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.455"
+			timeRelativeToTestModuleStartTime="00:04.455"
+			timeWallClock="15:20:54"
+			time="00:04.455"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'HomeSalesforce.UiImage' at 23;20.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='ussprod--dmibox.lightning.force.com']//header[#'oneHeader']/div[2]/span/?/?/ul/li[9]//div/span[1]/div/span"
+				itempath=".//header[#'oneHeader']/div[2]/span/?/?/ul/li[9]//div/span[1]/div/span"
+				fullname="POC_TESTRepository.HomeSalesforce.UiImage"
+				id="2c37ca8b7e1c4de482ee580fafdc8e40"
+				timeout="60000"
+				codefile="c:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POC TEST\POC TEST\Recording1.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.157"
+			timeRelativeToTestModuleStartTime="00:07.157"
+			timeWallClock="15:20:56"
+			time="00:07.157"
+			level="Info"
+			category="Delay"
+			errimg="images_Recordin_5dc87a47\Recordin_5dc87a47_c1be6c31_trace.jpg"
+			errthumb="images_Recordin_5dc87a47\Recordin_5dc87a47_c1be6c31_trace_thumb.jpg">
+			<message>
+				Waiting for 30s.
+			</message>
+			<metainfo
+				itemindex="1"
+				codefile="c:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POC TEST\POC TEST\Recording1.cs"
+				codeline="86"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:37.164"
+			timeRelativeToTestModuleStartTime="00:37.164"
+			timeWallClock="15:21:26"
+			time="00:37.164"
+			level="Info"
+			category="Mouse"
+			errimg="images_Recordin_5dc87a47\Recordin_5dc87a47_92c87766_trace.jpg"
+			errthumb="images_Recordin_5dc87a47\Recordin_5dc87a47_92c87766_trace_thumb.jpg">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.LogOut' at 39;8.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='ussprod--dmibox.lightning.force.com']/body/div[4]/div[2]/div[4]/div[1]/div[1]/div/div[2]/?/?/a[@innertext='Log Out']"
+				itempath="body/div[4]/div[2]/div[4]/div[1]/div[1]/div/div[2]/?/?/a[@innertext='Log Out']"
+				fullname="POC_TESTRepository.ApplicationUnderTest.LogOut"
+				id="04d64c7c4d1141a7a2cfb9014c8ef22f"
+				timeout="60000"
+				codefile="c:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POC TEST\POC TEST\Recording1.cs"
+				codeline="89"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:52.788"
+			timeRelativeToTestModuleStartTime="01:52.788"
+			timeWallClock="15:22:42"
+			time="01:52.788"
+			level="Error"
+			category="Module"
+			errimg="images_Recordin_5dc87a47\Recordin_5dc87a47_8f109b2f_trace.jpg"
+			errthumb="images_Recordin_5dc87a47\Recordin_5dc87a47_8f109b2f_trace_thumb.jpg">
+			<message>
+				Failed to find item 'POC_TESTRepository.ApplicationUnderTest.LogOut'. Please check that your whitelist allows Ranorex to access the process.<br/>No element found for path '/dom[@domain='ussprod--dmibox.lightning.force.com']/body/div[4]/div[2]/div[4]/div[1]/div[1]/div/div[2]/?/?/a[@innertext='Log Out']' at step 'dom[@domain='ussprod--dmibox.lightning.force.com']' after 896 attempts within 1m.
+			</message>
+			<metainfo
+				stacktrace="   at Ranorex.Core.Repository.RepoItemInfo.FindInternal[T](Boolean findSingle, Boolean throwException, Duration effectiveTimeoutOverride)&#13;&#10;   at Ranorex.Core.Repository.RepoItemInfo.&lt;>c__DisplayClass75_0`1.&lt;Find>b__0()&#13;&#10;   at Ranorex.Core.Testing.Services.NoMaintenanceModeService.HandleElementNotFound[T](Func`1 action, RepoItemInfo entry)&#13;&#10;   at Ranorex.Core.Repository.RepoItemInfo.Find[T](Boolean findSingle, Boolean throwException, Duration effectiveTimeoutOverride)&#13;&#10;   at Ranorex.Core.Repository.RepoItemInfo.CreateAdapter[T](Boolean throwException, Duration waitTimeout)&#13;&#10;   at Ranorex.Core.Repository.RepoItemInfo.CreateAdapter[T](Boolean throwException)&#13;&#10;   at POC_TEST.POC_TESTRepositoryFolders.ApplicationUnderTestAppFolder.get_LogOut() in c:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POC TEST\POC TEST\POC_TESTRepository.cs:line 175&#13;&#10;   at POC_TEST.Recording1.Ranorex.Core.Testing.ITestModule.Run() in c:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POC TEST\POC TEST\Recording1.cs:line 90&#13;&#10;   at Ranorex.Core.Testing.TestModuleLeaf.RunInternal(DataContext parentDataContext, Int32 iteration, Int32 iterationCount, Boolean skipIteration)"
+				codefile="c:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POC TEST\POC TEST\Recording1.cs"
+				codeline="90"
+				type="repoitem"
+				path="/dom[@domain='ussprod--dmibox.lightning.force.com']/body/div[4]/div[2]/div[4]/div[1]/div[1]/div/div[2]/?/?/a[@innertext='Log Out']"
+				itempath="body/div[4]/div[2]/div[4]/div[1]/div[1]/div/div[2]/?/?/a[@innertext='Log Out']"
+				fullname="POC_TESTRepository.ApplicationUnderTest.LogOut"
+				id="04d64c7c4d1141a7a2cfb9014c8ef22f"
+				timeout="60000"
+				failedStep="dom[@domain='ussprod--dmibox.lightning.force.com']"
+				bestPathPrefix=""
+				loglvl="Error"
+				itemindex="2">
+			</metainfo>
+		</item>
+	</activity>
+</report>

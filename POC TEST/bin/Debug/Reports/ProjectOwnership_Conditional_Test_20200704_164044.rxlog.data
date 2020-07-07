@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="27.4s"
+		durationms="27398"
+		type="root"
+		rid="6ea64a876a818d4"
+		totalerrorcount="1"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="asjaisw"
+		rxversion="9.3.2.0"
+		host="6K68533-ASJAISW"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-US"
+		screenresolution="1920x1080"
+		timestamp="7/4/2020 4:40:48 PM"
+		timestampiso="2020-07-04T20:40:48"
+		endtime="7/4/2020 4:41:15 PM"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="ProjectOwnership_Conditional_Test">
+		<detail>
+			ProjectOwnership_Conditional_Test
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.825"
+			timeRelativeToTestModuleStartTime="00:04.825"
+			timeWallClock="16:40:52"
+			time="00:04.825"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.SldsIconWaffle' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='ussprod--dmibox.lightning.force.com']//header[#'oneHeader']/div[3]/div/div[1]/div[1]/nav/button/div/div"
+				itempath=".//header[#'oneHeader']/div[3]/div/div[1]/div[1]/nav/button/div/div"
+				fullname="POC_TESTRepository.ApplicationUnderTest.SldsIconWaffle"
+				id="7fab390f66484d27ad1c5ce177942c57"
+				timeout="60000"
+				codefile="c:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POC TEST\POC TEST\ProjectOwnership_Conditional_Test.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.748"
+			timeRelativeToTestModuleStartTime="00:07.748"
+			timeWallClock="16:40:55"
+			time="00:07.748"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.Viewport.ViewAll' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='ussprod--dmibox.lightning.force.com']/body/div[4]/div[2]/div[2]//button[@innertext='View All']"
+				itempath="div[2]//button[@innertext='View All']"
+				fullname="POC_TESTRepository.ApplicationUnderTest.Viewport.ViewAll"
+				id="02f16bfeb96d4c23b29fd523a618a27f"
+				timeout="90000"
+				codefile="c:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POC TEST\POC TEST\ProjectOwnership_Conditional_Test.cs"
+				codeline="86"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:08.715"
+			timeRelativeToTestModuleStartTime="00:08.715"
+			timeWallClock="16:40:56"
+			time="00:08.715"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Down item 'ApplicationUnderTest.Viewport.SldsColSldsPHorizontalLargeSldsSc' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='ussprod--dmibox.lightning.force.com']/body/div[4]/div[2]/div[2]//tag[@tagname='one-app-launcher-modal']/div/div[2]"
+				itempath="div[2]//tag[@tagname='one-app-launcher-modal']/div/div[2]"
+				fullname="POC_TESTRepository.ApplicationUnderTest.Viewport.SldsColSldsPHorizontalLargeSldsSc"
+				id="4d25c0f663614a02862a1c97a21348d7"
+				timeout="90000"
+				codefile="c:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POC TEST\POC TEST\ProjectOwnership_Conditional_Test.cs"
+				codeline="90"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:10.724"
+			timeRelativeToTestModuleStartTime="00:10.724"
+			timeWallClock="16:40:58"
+			time="00:10.724"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Up item 'ApplicationUnderTest.Viewport.SldsColSldsPHorizontalLargeSldsSc' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='ussprod--dmibox.lightning.force.com']/body/div[4]/div[2]/div[2]//tag[@tagname='one-app-launcher-modal']/div/div[2]"
+				itempath="div[2]//tag[@tagname='one-app-launcher-modal']/div/div[2]"
+				fullname="POC_TESTRepository.ApplicationUnderTest.Viewport.SldsColSldsPHorizontalLargeSldsSc"
+				id="4d25c0f663614a02862a1c97a21348d7"
+				timeout="90000"
+				codefile="c:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POC TEST\POC TEST\ProjectOwnership_Conditional_Test.cs"
+				codeline="95"
+				itemindex="3"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:11.161"
+			timeRelativeToTestModuleStartTime="00:11.161"
+			timeWallClock="16:40:59"
+			time="00:11.161"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.Viewport.USSCRM' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='ussprod--dmibox.lightning.force.com']/body/div[4]/div[2]/div[2]/div[2]/div/div[2]/tag/div/div[2]//section/div[2]/tag[@tagname='slot']/div/tag[23]/div/div[2]/div/a[@href>'https://ussprod--dmibox.l']//p[@innertext='USS CRM']"
+				itempath="div[2]/div[2]/div/div[2]/tag/div/div[2]//section/div[2]/tag[@tagname='slot']/div/tag[23]/div/div[2]/div/a[@href>'https://ussprod--dmibox.l']//p[@innertext='USS CRM']"
+				fullname="POC_TESTRepository.ApplicationUnderTest.Viewport.USSCRM"
+				id="8d06c565b6844dc78aa3ac71d8315952"
+				timeout="90000"
+				codefile="c:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POC TEST\POC TEST\ProjectOwnership_Conditional_Test.cs"
+				codeline="100"
+				itemindex="4"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:12.280"
+			timeRelativeToTestModuleStartTime="00:12.280"
+			timeWallClock="16:41:00"
+			time="00:12.280"
+			level="Info"
+			category="Delay">
+			<message>
+				Waiting for 10s.
+			</message>
+			<metainfo
+				itemindex="5"
+				codefile="c:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POC TEST\POC TEST\ProjectOwnership_Conditional_Test.cs"
+				codeline="104"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:22.290"
+			timeRelativeToTestModuleStartTime="00:22.290"
+			timeWallClock="16:41:10"
+			time="00:22.290"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.LightningPrimitiveIcon' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='ussprod--dmibox.lightning.force.com']//header[#'oneHeader']/div[3]//button[@title='Show Navigation Menu']/tag[@tagname='lightning-primitive-icon']"
+				itempath=".//header[#'oneHeader']/div[3]//button[@title='Show Navigation Menu']/tag[@tagname='lightning-primitive-icon']"
+				fullname="POC_TESTRepository.ApplicationUnderTest.LightningPrimitiveIcon"
+				id="8b0af01538714d05a607baf5ec59552e"
+				timeout="60000"
+				codefile="c:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POC TEST\POC TEST\ProjectOwnership_Conditional_Test.cs"
+				codeline="107"
+				itemindex="6"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:27.396"
+			timeRelativeToTestModuleStartTime="00:27.396"
+			timeWallClock="16:41:15"
+			time="00:27.396"
+			level="Error"
+			category="Module">
+			<message>
+				The test run has been aborted by the user.
+			</message>
+			<metainfo
+				loglvl="Error">
+			</metainfo>
+		</item>
+	</activity>
+</report>

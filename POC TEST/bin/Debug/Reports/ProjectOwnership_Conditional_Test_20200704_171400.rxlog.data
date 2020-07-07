@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="1.1m"
+		durationms="65000"
+		type="root"
+		rid="589f2f7c5066004"
+		totalerrorcount="1"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="asjaisw"
+		rxversion="9.3.2.0"
+		host="6K68533-ASJAISW"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-US"
+		screenresolution="1920x1080"
+		timestamp="7/4/2020 5:14:04 PM"
+		timestampiso="2020-07-04T21:14:04"
+		endtime="7/4/2020 5:15:09 PM"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="ProjectOwnership_Conditional_Test">
+		<detail>
+			ProjectOwnership_Conditional_Test
+		</detail>
+		<errormessage>
+			Failed to find item 'POC_TESTRepository.ApplicationUnderTest.SldsIconWaffle'. Please check that your whitelist allows Ranorex to access the process.
+		</errormessage>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.762"
+			timeRelativeToTestModuleStartTime="00:04.762"
+			timeWallClock="17:14:09"
+			time="00:04.762"
+			level="Info"
+			category="Mouse"
+			errimg="images_ProjectO_688a7788\ProjectO_688a7788_af252fa0_trace.jpg"
+			errthumb="images_ProjectO_688a7788\ProjectO_688a7788_af252fa0_trace_thumb.jpg">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.SldsIconWaffle' at 6;2.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='ussprod--dmibox.lightning.force.com']//header[#'oneHeader']/div[3]//button[@title='Show Navigation Menu']/tag[@tagname='lightning-primitive-icon']//header[#'oneHeader']/div[3]/tag/div/div/?/?/nav//div"
+				itempath=".//header[#'oneHeader']/div[3]/tag/div/div/?/?/nav//div"
+				fullname="POC_TESTRepository.ApplicationUnderTest.SldsIconWaffle"
+				id="7fab390f66484d27ad1c5ce177942c57"
+				timeout="60000"
+				codefile="c:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POC TEST\POC TEST\ProjectOwnership_Conditional_Test.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:04.891"
+			timeRelativeToTestModuleStartTime="01:04.891"
+			timeWallClock="17:15:09"
+			time="01:04.891"
+			level="Error"
+			category="Module"
+			errimg="images_ProjectO_688a7788\ProjectO_688a7788_ec503434_trace.jpg"
+			errthumb="images_ProjectO_688a7788\ProjectO_688a7788_ec503434_trace_thumb.jpg">
+			<message>
+				Failed to find item 'POC_TESTRepository.ApplicationUnderTest.SldsIconWaffle'. Please check that your whitelist allows Ranorex to access the process.<br/>No element found for path '/dom[@domain='ussprod--dmibox.lightning.force.com']//header[#'oneHeader']/div[3]//button[@title='Show Navigation Menu']/tag[@tagname='lightning-primitive-icon']//header[#'oneHeader']/div[3]/tag/div/div/?/?/nav//div' at step 'descendant-or-self::header[#'oneHeader']' after 388 attempts within 1m.
+			</message>
+			<metainfo
+				stacktrace="   at Ranorex.Core.Repository.RepoItemInfo.FindInternal[T](Boolean findSingle, Boolean throwException, Duration effectiveTimeoutOverride)&#13;&#10;   at Ranorex.Core.Repository.RepoItemInfo.&lt;>c__DisplayClass75_0`1.&lt;Find>b__0()&#13;&#10;   at Ranorex.Core.Testing.Services.NoMaintenanceModeService.HandleElementNotFound[T](Func`1 action, RepoItemInfo entry)&#13;&#10;   at Ranorex.Core.Repository.RepoItemInfo.Find[T](Boolean findSingle, Boolean throwException, Duration effectiveTimeoutOverride)&#13;&#10;   at Ranorex.Core.Repository.RepoItemInfo.CreateAdapter[T](Boolean throwException, Duration waitTimeout)&#13;&#10;   at Ranorex.Core.Repository.RepoItemInfo.CreateAdapter[T](Boolean throwException)&#13;&#10;   at POC_TEST.POC_TESTRepositoryFolders.ApplicationUnderTestAppFolder.get_SldsIconWaffle() in c:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POC TEST\POC TEST\POC_TESTRepository.cs:line 235&#13;&#10;   at POC_TEST.ProjectOwnership_Conditional_Test.Ranorex.Core.Testing.ITestModule.Run() in c:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POC TEST\POC TEST\ProjectOwnership_Conditional_Test.cs:line 83&#13;&#10;   at Ranorex.Core.Testing.TestModuleLeaf.RunInternal(DataContext parentDataContext, Int32 iteration, Int32 iterationCount, Boolean skipIteration)"
+				codefile="c:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POC TEST\POC TEST\ProjectOwnership_Conditional_Test.cs"
+				codeline="83"
+				type="repoitem"
+				path="/dom[@domain='ussprod--dmibox.lightning.force.com']//header[#'oneHeader']/div[3]//button[@title='Show Navigation Menu']/tag[@tagname='lightning-primitive-icon']//header[#'oneHeader']/div[3]/tag/div/div/?/?/nav//div"
+				itempath=".//header[#'oneHeader']/div[3]/tag/div/div/?/?/nav//div"
+				fullname="POC_TESTRepository.ApplicationUnderTest.SldsIconWaffle"
+				id="7fab390f66484d27ad1c5ce177942c57"
+				timeout="60000"
+				failedStep="descendant-or-self::header[#'oneHeader']"
+				bestPathPrefix="/dom[@domain='ussprod--dmibox.lightning.force.com']"
+				loglvl="Error"
+				itemindex="0">
+			</metainfo>
+		</item>
+	</activity>
+</report>

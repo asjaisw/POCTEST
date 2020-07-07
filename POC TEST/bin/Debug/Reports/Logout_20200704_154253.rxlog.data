@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="26.86s"
+		durationms="26861"
+		type="root"
+		rid="223a406adb45a00"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="asjaisw"
+		rxversion="9.3.2.0"
+		host="6K68533-ASJAISW"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-US"
+		screenresolution="1920x1080"
+		timestamp="7/4/2020 3:42:56 PM"
+		timestampiso="2020-07-04T19:42:56"
+		endtime="7/4/2020 3:43:23 PM"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Logout">
+		<detail>
+			Logout
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.471"
+			timeRelativeToTestModuleStartTime="00:04.471"
+			timeWallClock="15:43:01"
+			time="00:04.471"
+			level="Info"
+			category="Delay">
+			<message>
+				Waiting for 10s.
+			</message>
+			<metainfo
+				itemindex="0"
+				codefile="c:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POC TEST\POC TEST\Logout.cs"
+				codeline="82"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:14.494"
+			timeRelativeToTestModuleStartTime="00:14.494"
+			timeWallClock="15:43:11"
+			time="00:14.494"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'HomeSalesforce.UiImage' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='ussprod--dmibox.lightning.force.com']//header[#'oneHeader']/div[2]/span/?/?/ul/li[9]//div/span[1]/div/span[@visible='True']"
+				itempath=".//header[#'oneHeader']/div[2]/span/?/?/ul/li[9]//div/span[1]/div/span[@visible='True']"
+				fullname="POC_TESTRepository.HomeSalesforce.UiImage"
+				id="2c37ca8b7e1c4de482ee580fafdc8e40"
+				timeout="60000"
+				codefile="c:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POC TEST\POC TEST\Logout.cs"
+				codeline="85"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:16.379"
+			timeRelativeToTestModuleStartTime="00:16.379"
+			timeWallClock="15:43:13"
+			time="00:16.379"
+			level="Info"
+			category="Delay">
+			<message>
+				Waiting for 10s.
+			</message>
+			<metainfo
+				itemindex="2"
+				codefile="c:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POC TEST\POC TEST\Logout.cs"
+				codeline="89"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:26.384"
+			timeRelativeToTestModuleStartTime="00:26.384"
+			timeWallClock="15:43:23"
+			time="00:26.384"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.LogOut' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='ussprod--dmibox.lightning.force.com']/body/div[4]/div[2]/div[2]/div[1]/div[1]/div/div[2]/div/a[@innertext='Log Out']"
+				itempath="body/div[4]/div[2]/div[2]/div[1]/div[1]/div/div[2]/div/a[@innertext='Log Out']"
+				fullname="POC_TESTRepository.ApplicationUnderTest.LogOut"
+				id="04d64c7c4d1141a7a2cfb9014c8ef22f"
+				timeout="60000"
+				codefile="c:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POC TEST\POC TEST\Logout.cs"
+				codeline="92"
+				itemindex="3"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>

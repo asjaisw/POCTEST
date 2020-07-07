@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="1.7m"
+		durationms="104674"
+		type="root"
+		rid="1a3d1774ad12b752"
+		totalerrorcount="2"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="asjaisw"
+		rxversion="9.3.2.0"
+		host="6K68533-ASJAISW"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-US"
+		screenresolution="1920x1080"
+		timestamp="7/4/2020 4:43:36 PM"
+		timestampiso="2020-07-04T20:43:36"
+		endtime="7/4/2020 4:45:20 PM"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="ProjectOwnership_Conditional_Test">
+		<detail>
+			ProjectOwnership_Conditional_Test
+		</detail>
+		<errormessage>
+			Failed to find item 'POC_TESTRepository.ApplicationUnderTest.LightningPrimitiveIcon'. Please check that your whitelist allows Ranorex to access the process.
+		</errormessage>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.421"
+			timeRelativeToTestModuleStartTime="00:04.421"
+			timeWallClock="16:43:40"
+			time="00:04.421"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.SldsIconWaffle' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='ussprod--dmibox.lightning.force.com']//header[#'oneHeader']/div[3]/div/div[1]/div[1]/nav/button/div/div"
+				itempath=".//header[#'oneHeader']/div[3]/div/div[1]/div[1]/nav/button/div/div"
+				fullname="POC_TESTRepository.ApplicationUnderTest.SldsIconWaffle"
+				id="7fab390f66484d27ad1c5ce177942c57"
+				timeout="60000"
+				codefile="c:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POC TEST\POC TEST\ProjectOwnership_Conditional_Test.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:30.255"
+			timeRelativeToTestModuleStartTime="00:30.255"
+			timeWallClock="16:44:06"
+			time="00:30.255"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.Viewport.ViewAll' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='ussprod--dmibox.lightning.force.com']/body/div[4]/div[2]/div[2]//button[@innertext='View All']"
+				itempath="div[2]//button[@innertext='View All']"
+				fullname="POC_TESTRepository.ApplicationUnderTest.Viewport.ViewAll"
+				id="02f16bfeb96d4c23b29fd523a618a27f"
+				timeout="90000"
+				codefile="c:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POC TEST\POC TEST\ProjectOwnership_Conditional_Test.cs"
+				codeline="86"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:31.533"
+			timeRelativeToTestModuleStartTime="00:31.533"
+			timeWallClock="16:44:07"
+			time="00:31.533"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Down item 'ApplicationUnderTest.Viewport.SldsColSldsPHorizontalLargeSldsSc' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='ussprod--dmibox.lightning.force.com']/body/div[4]/div[2]/div[2]//tag[@tagname='one-app-launcher-modal']/div/div[2]"
+				itempath="div[2]//tag[@tagname='one-app-launcher-modal']/div/div[2]"
+				fullname="POC_TESTRepository.ApplicationUnderTest.Viewport.SldsColSldsPHorizontalLargeSldsSc"
+				id="4d25c0f663614a02862a1c97a21348d7"
+				timeout="90000"
+				codefile="c:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POC TEST\POC TEST\ProjectOwnership_Conditional_Test.cs"
+				codeline="90"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:33.628"
+			timeRelativeToTestModuleStartTime="00:33.628"
+			timeWallClock="16:44:09"
+			time="00:33.628"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Up item 'ApplicationUnderTest.Viewport.SldsColSldsPHorizontalLargeSldsSc' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='ussprod--dmibox.lightning.force.com']/body/div[4]/div[2]/div[2]//tag[@tagname='one-app-launcher-modal']/div/div[2]"
+				itempath="div[2]//tag[@tagname='one-app-launcher-modal']/div/div[2]"
+				fullname="POC_TESTRepository.ApplicationUnderTest.Viewport.SldsColSldsPHorizontalLargeSldsSc"
+				id="4d25c0f663614a02862a1c97a21348d7"
+				timeout="90000"
+				codefile="c:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POC TEST\POC TEST\ProjectOwnership_Conditional_Test.cs"
+				codeline="95"
+				itemindex="3"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:34.079"
+			timeRelativeToTestModuleStartTime="00:34.079"
+			timeWallClock="16:44:10"
+			time="00:34.079"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.Viewport.USSCRM' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='ussprod--dmibox.lightning.force.com']/body/div[4]/div[2]"
+				itempath=""
+				fullname="POC_TESTRepository.ApplicationUnderTest.Viewport.USSCRM"
+				id="8d06c565b6844dc78aa3ac71d8315952"
+				timeout="90000"
+				codefile="c:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POC TEST\POC TEST\ProjectOwnership_Conditional_Test.cs"
+				codeline="100"
+				itemindex="4"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:34.531"
+			timeRelativeToTestModuleStartTime="00:34.531"
+			timeWallClock="16:44:10"
+			time="00:34.531"
+			level="Info"
+			category="Delay">
+			<message>
+				Waiting for 10s.
+			</message>
+			<metainfo
+				itemindex="5"
+				codefile="c:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POC TEST\POC TEST\ProjectOwnership_Conditional_Test.cs"
+				codeline="104"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:44.537"
+			timeRelativeToTestModuleStartTime="00:44.537"
+			timeWallClock="16:44:20"
+			time="00:44.537"
+			level="Info"
+			category="Mouse"
+			errimg="images_ProjectO_685dec06\ProjectO_685dec06_647c4819_trace.jpg"
+			errthumb="images_ProjectO_685dec06\ProjectO_685dec06_647c4819_trace_thumb.jpg">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.LightningPrimitiveIcon' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='ussprod--dmibox.lightning.force.com']//header[#'oneHeader']/div[3]//button[@title='Show Navigation Menu']/tag[@tagname='lightning-primitive-icon']"
+				itempath=".//header[#'oneHeader']/div[3]//button[@title='Show Navigation Menu']/tag[@tagname='lightning-primitive-icon']"
+				fullname="POC_TESTRepository.ApplicationUnderTest.LightningPrimitiveIcon"
+				id="8b0af01538714d05a607baf5ec59552e"
+				timeout="60000"
+				codefile="c:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POC TEST\POC TEST\ProjectOwnership_Conditional_Test.cs"
+				codeline="107"
+				itemindex="6"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:44.667"
+			timeRelativeToTestModuleStartTime="01:44.667"
+			timeWallClock="16:45:20"
+			time="01:44.667"
+			level="Error"
+			category="Module"
+			errimg="images_ProjectO_685dec06\ProjectO_685dec06_26f95336_trace.jpg"
+			errthumb="images_ProjectO_685dec06\ProjectO_685dec06_26f95336_trace_thumb.jpg">
+			<message>
+				Failed to find item 'POC_TESTRepository.ApplicationUnderTest.LightningPrimitiveIcon'. Please check that your whitelist allows Ranorex to access the process.<br/>No element found for path '/dom[@domain='ussprod--dmibox.lightning.force.com']//header[#'oneHeader']/div[3]//button[@title='Show Navigation Menu']/tag[@tagname='lightning-primitive-icon']' at step 'descendant-or-self::button[@title='Show Navigation Menu']' after 306 attempts within 1m.
+			</message>
+			<metainfo
+				stacktrace="   at Ranorex.Core.Repository.RepoItemInfo.FindInternal[T](Boolean findSingle, Boolean throwException, Duration effectiveTimeoutOverride)&#13;&#10;   at Ranorex.Core.Repository.RepoItemInfo.&lt;>c__DisplayClass75_0`1.&lt;Find>b__0()&#13;&#10;   at Ranorex.Core.Testing.Services.NoMaintenanceModeService.HandleElementNotFound[T](Func`1 action, RepoItemInfo entry)&#13;&#10;   at Ranorex.Core.Repository.RepoItemInfo.Find[T](Boolean findSingle, Boolean throwException, Duration effectiveTimeoutOverride)&#13;&#10;   at Ranorex.Core.Repository.RepoItemInfo.CreateAdapter[T](Boolean throwException, Duration waitTimeout)&#13;&#10;   at Ranorex.Core.Repository.RepoItemInfo.CreateAdapter[T](Boolean throwException)&#13;&#10;   at POC_TEST.POC_TESTRepositoryFolders.ApplicationUnderTestAppFolder.get_LightningPrimitiveIcon() in c:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POC TEST\POC TEST\POC_TESTRepository.cs:line 419&#13;&#10;   at POC_TEST.ProjectOwnership_Conditional_Test.Ranorex.Core.Testing.ITestModule.Run() in c:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POC TEST\POC TEST\ProjectOwnership_Conditional_Test.cs:line 108&#13;&#10;   at Ranorex.Core.Testing.TestModuleLeaf.RunInternal(DataContext parentDataContext, Int32 iteration, Int32 iterationCount, Boolean skipIteration)"
+				codefile="c:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POC TEST\POC TEST\ProjectOwnership_Conditional_Test.cs"
+				codeline="108"
+				type="repoitem"
+				path="/dom[@domain='ussprod--dmibox.lightning.force.com']//header[#'oneHeader']/div[3]//button[@title='Show Navigation Menu']/tag[@tagname='lightning-primitive-icon']"
+				itempath=".//header[#'oneHeader']/div[3]//button[@title='Show Navigation Menu']/tag[@tagname='lightning-primitive-icon']"
+				fullname="POC_TESTRepository.ApplicationUnderTest.LightningPrimitiveIcon"
+				id="8b0af01538714d05a607baf5ec59552e"
+				timeout="60000"
+				failedStep="descendant-or-self::button[@title='Show Navigation Menu']"
+				bestPathPrefix="/dom[@domain='ussprod--dmibox.lightning.force.com']/descendant-or-self::header[#'oneHeader']/div[3]"
+				loglvl="Error"
+				itemindex="6">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:44.671"
+			timeRelativeToTestModuleStartTime="01:44.671"
+			timeWallClock="16:45:20"
+			time="01:44.671"
+			level="Error"
+			category="Module">
+			<message>
+				The test run has been aborted by the user.
+			</message>
+			<metainfo
+				loglvl="Error">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:44.696"
+			timeRelativeToTestModuleStartTime="01:44.696"
+			timeWallClock="16:45:20"
+			time="01:44.696"
+			level="Failure"
+			category="Module"
+			errimg="images_ProjectO_685dec06\ProjectO_685dec06_26f95336_trace.jpg"
+			errthumb="images_ProjectO_685dec06\ProjectO_685dec06_26f95336_trace_thumb.jpg">
+			<message>
+				Thread was being aborted.
+			</message>
+			<metainfo
+				stacktrace="   at System.Threading.WaitHandle.WaitOneNative(SafeHandle waitableSafeHandle, UInt32 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.InternalWaitOne(SafeHandle waitableSafeHandle, Int64 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.WaitOne(Int32 millisecondsTimeout, Boolean exitContext)
+   at Ranorex.Core.Reporting.TestReport.SaveLocalScreenshotBuffer(Activity mod)
+   at Ranorex.Core.Testing.TestModuleRunner.RunStandalone(ITestModule module, String reportFilename, Boolean generateReport, String standaloneModuleName, CaseInsensitiveString guid)"
+				loglvl="Failure">
+			</metainfo>
+		</item>
+	</activity>
+</report>
