@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		TestRail = .\TestRail.trsd
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC TEST", "POC TEST\POC TEST.csproj", "{56A56970-F4F2-4B98-92A5-2502B7D96E92}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POCTEST", "POC TEST\POCTEST.csproj", "{56A56970-F4F2-4B98-92A5-2502B7D96E92}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectOwnership", "ProjectOwnership\ProjectOwnership.csproj", "{A9EAD288-0709-4C1E-91B6-48E6720AD570}"
 EndProject

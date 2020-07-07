@@ -121,15 +121,22 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AssemblyInfo.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="AssemblyInfo.cs">
+      <id>ff8209f0-c0df-4f13-a483-9ac564f62ff4</id>
+    </Compile>
+    <Compile Include="Program.cs">
+      <id>1035524c-b719-4f2c-9d0d-2b0ee5f97e1a</id>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="app.config" />
+    <None Include="app.config">
+      <id>70a737df-2e6c-4971-a27d-7c83f28d99aa</id>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Content Include="ProjectOwnership.rxtst">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <id>23f4f8cc-a3e4-4205-aaf0-b4bd1576a44f</id>
     </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
