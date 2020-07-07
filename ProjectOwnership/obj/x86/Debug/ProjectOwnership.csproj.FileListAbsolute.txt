@@ -7,3 +7,12 @@ C:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POC TEST\ProjectOwners
 C:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POC TEST\ProjectOwnership\obj\x86\Debug\ProjectOwnership.csprojResolveAssemblyReference.cache
 C:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POC TEST\ProjectOwnership\obj\x86\Debug\ProjectOwnership.exe
 C:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POC TEST\ProjectOwnership\obj\x86\Debug\ProjectOwnership.pdb
+C:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POCTEST\ProjectOwnership\bin\Debug\ProjectOwnership.rxtst
+C:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POCTEST\ProjectOwnership\bin\Debug\ProjectOwnership.exe.config
+C:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POCTEST\ProjectOwnership\bin\Debug\ProjectOwnership.xml
+C:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POCTEST\ProjectOwnership\bin\Debug\ProjectOwnership.exe
+C:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POCTEST\ProjectOwnership\bin\Debug\ProjectOwnership.pdb
+C:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POCTEST\ProjectOwnership\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POCTEST\ProjectOwnership\obj\x86\Debug\ProjectOwnership.csprojResolveAssemblyReference.cache
+C:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POCTEST\ProjectOwnership\obj\x86\Debug\ProjectOwnership.exe
+C:\Users\asjaisw\Documents\Ranorex\RanorexStudio Projects\POCTEST\ProjectOwnership\obj\x86\Debug\ProjectOwnership.pdb
